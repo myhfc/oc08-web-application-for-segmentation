@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'web-application-for-segmentation'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CF4C9B06DF964FD590E7EBEE2E7FF11B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D91694B8CB9848A0BE281CBBC9E26EFD }}
